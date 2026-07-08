@@ -49,12 +49,12 @@ The Local Cuisine Finder Chatbot solves this problem by combining conversational
 💬 Interactive chatbot conversation
 🛠️ Technologies Used
 
-Frontend
+Frontend -> 
 HTML5
 CSS3
 JavaScript
 
-Backend
+Backend -> 
 Node.js
 APIs & Services
 Google Maps API
@@ -85,8 +85,11 @@ Food delivery integration
 Machine Learning–based personalized recommendations.
 
 👩‍💻 Author
+
 Suhani Kumari
+
 🎓 B.Tech Computer Science Student
+
 💻 Aspiring Software Developer | Web Development Enthusiast
 
 ⭐ If you like this project, don't forget to star the repository!
