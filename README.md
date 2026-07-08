@@ -48,25 +48,19 @@ The Local Cuisine Finder Chatbot solves this problem by combining conversational
 🌍 Multilingual interface support
 💬 Interactive chatbot conversation
 🛠️ Technologies Used
+
 Frontend
 HTML5
 CSS3
 JavaScript
+
 Backend
 Node.js
 APIs & Services
 Google Maps API
 Yelp API / Zomato API
 Web Speech API
-📷 Project Preview
 
-Add chatbot screenshots here
-
-![Home Page](images/home.png)
-
-![Chat Interface](images/chatbot.png)
-
-![Restaurant Recommendation](images/restaurants.png)
 📂 Project Workflow
 User enters a location or allows location access.
 Chatbot analyzes user preferences.
@@ -74,25 +68,25 @@ Retrieves cuisine and restaurant information using APIs.
 Displays recommended dishes with cultural details.
 Shows nearby restaurants on an interactive map.
 Provides ratings, reviews, and directions.
+
 📈 Benefits
 Makes food discovery faster and easier.
 Improves travel and dining experiences.
 Provides personalized recommendations.
 Promotes regional cuisines and food culture.
 Saves users time by combining multiple services into one chatbot.
+
 🚀 Future Enhancements
 AI-powered recommendation engine
 User login and favorite dishes
 Real-time restaurant availability
 Online table reservation
 Food delivery integration
-Machine Learning–based personalized recommendations
+Machine Learning–based personalized recommendations.
+
 👩‍💻 Author
-
 Suhani Kumari
-
 🎓 B.Tech Computer Science Student
-
 💻 Aspiring Software Developer | Web Development Enthusiast
 
 ⭐ If you like this project, don't forget to star the repository!
