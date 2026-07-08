@@ -1,10 +1,6 @@
 # AI-Local-Cuisine-Finder-Chatbot
 An intelligent web-based chatbot that helps users discover authentic local cuisines and nearby restaurants based on their location, food preferences, and dietary choices.
 
-🍽️ Local Cuisine Finder Chatbot
-
-An intelligent web-based chatbot that helps users discover authentic local cuisines and nearby restaurants based on their location, food preferences, and dietary choices.
-
 📖 Project Overview
 
 The Local Cuisine Finder Chatbot is an AI-powered web application designed to enhance the dining and travel experience by helping users explore authentic local dishes and nearby restaurants through an interactive conversational interface. The chatbot provides personalized food recommendations based on the user's current location, preferred cuisine, dietary preferences, and taste.
